@@ -20,6 +20,7 @@ rl.question("Input 1st number: ", function(a) {
             // a = parseInt(a);
             // b = parseInt(b);
             // c = parseInt(c);
+            // change
 
             if (isPythagoreanTriple(a, b, c)) {
                 console.log("Pythagorean triple number.");
